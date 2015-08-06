@@ -1,0 +1,15 @@
+{
+  "name": "Selectize Bootstrap Stylus",
+  "version": "0.0.1",
+  "description": "Port of the Selectize less files to stylus",
+  "authors": [
+    "Josep Ramon Camps Lladó <jrcamps@mosaiqo.com>"
+  ],
+  "license": "APACHE",
+  "main": "index.styl",
+  "dependencies": {},
+  "devDependencies": {
+  	"bootstrap-stylus": "~4.0.5"
+  },
+  "ignore": []
+}
