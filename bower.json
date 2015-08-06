@@ -1,6 +1,6 @@
 {
   "name": "Selectize Bootstrap Stylus",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Port of the Selectize less files to stylus",
   "authors": [
     "Josep Ramon Camps Lladó <jrcamps@mosaiqo.com>"
